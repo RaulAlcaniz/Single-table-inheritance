@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project created to follow the Thibault Denizet tutorial about Single table Inheritance
 
-Things you may want to cover:
+* Ruby Version 2.5.5
 
-* Ruby version
+* Rails Version 5.2.3
 
-* System dependencies
+* bundler gem needed
 
-* Configuration
+* Database initialization - rails db:migrate
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* To run the test suite - rails test
