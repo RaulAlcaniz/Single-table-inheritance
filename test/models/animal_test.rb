@@ -1,7 +1,7 @@
 require 'test_helper'
 
 class AnimalTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  test 'Animals should be belongs tribe' do
+    assert_equal Animal.reflect_on_association(:tribe).macro, :belongs_to
+  end
 end
