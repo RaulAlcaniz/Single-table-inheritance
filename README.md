@@ -1,6 +1,6 @@
 # README
 
-Project created to follow the Thibault Denizet tutorial about Single table Inheritance
+Project created to follow the Thibault Denizet tutorial about Single Table Inheritance
 
 * Ruby Version 2.5.5
 
